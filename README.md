@@ -1,2 +1,2 @@
-# Carrom-Board-2.0
-nfdijrndo;ingtoinigo
+# p5.play-boilerplate
+Boiler plate for p5.play
